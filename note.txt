@@ -1,0 +1,28 @@
+React 
+ - React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
+ - React is a tool for building UI components.
+    -  React is javascript library for building user interface.
+    -  React is used to build single-page applications.
+    -  React allows us to create reusable UI components.
+
+How does React Work?
+ - React creates a VIRTUAL DOM in memory.
+
+React Render HTML
+ React's goal is in many ways to render HTML in a web page.
+ React renders HTML to the web page by using a function called ReactDOM.render().
+
+
+ Introduction - https://youtu.be/tiLWCNFzThE?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+ What Should you Know before Learning ReactJS - https://youtu.be/UUEJ-AnM_E8?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+
+ ReactJS Installation - https://youtu.be/tg73NsiQOUE?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+ Install command 
+    npx create-react-app <projectName>
+    npm create-react-app react-app
+
+Start Server npm start
+
+#5: ReactJS Hello World Program | React Folder Structure | JS Babel & Webpack - https://youtu.be/Y2pA6pz-ffM?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+JSX in React JS - https://youtu.be/p9m_v9OxfAM?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+How to Render Multiple Elements inside ReactDOM.render() in ReactJS https://youtu.be/QkGeby03bx8?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ 
