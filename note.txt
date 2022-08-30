@@ -19,8 +19,10 @@ React Render HTML
  ReactJS Installation - https://youtu.be/tg73NsiQOUE?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
  Install command 
     npx create-react-app <projectName>
+    npx create-react-app .
     npm create-react-app react-app
-
+    npm create-react-app .
+    
 Start Server npm start
 
 #5: ReactJS Hello World Program | React Folder Structure | JS Babel & Webpack - https://youtu.be/Y2pA6pz-ffM?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
@@ -29,3 +31,4 @@ How to Render Multiple Elements inside ReactDOM.render() in ReactJS https://yout
 Understanding React Fragment in React JS - https://youtu.be/D2skzi8ykHg?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 React JS Series Challenge #1: Create a Simple Web App on Top 5 Netflix Series List using JSX - https://youtu.be/e8e0T9VBFnU?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 JavaScript Expressions in JSX - https://youtu.be/LBpUF-OppB4?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+ES6 Template Literals in JSX - https://youtu.be/aZ1Kn6d-b3M?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
