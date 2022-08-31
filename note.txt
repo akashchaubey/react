@@ -24,7 +24,7 @@ React Render HTML
     npm create-react-app .
     
 Start Server npm start
-
+ 
 #5: ReactJS Hello World Program | React Folder Structure | JS Babel & Webpack - https://youtu.be/Y2pA6pz-ffM?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 JSX in React JS - https://youtu.be/p9m_v9OxfAM?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 How to Render Multiple Elements inside ReactDOM.render() in ReactJS https://youtu.be/QkGeby03bx8?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ 
@@ -32,3 +32,5 @@ Understanding React Fragment in React JS - https://youtu.be/D2skzi8ykHg?list=PLw
 React JS Series Challenge #1: Create a Simple Web App on Top 5 Netflix Series List using JSX - https://youtu.be/e8e0T9VBFnU?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 JavaScript Expressions in JSX - https://youtu.be/LBpUF-OppB4?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 ES6 Template Literals in JSX - https://youtu.be/aZ1Kn6d-b3M?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+React JS Challenge #2: Display Current Date and Time in JSX - https://youtu.be/s1TAk2SL5vc?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+JSX Attributes in ReactJS - https://youtu.be/OloAP8p1k1w?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
